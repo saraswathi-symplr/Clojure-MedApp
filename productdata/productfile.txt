@@ -1,0 +1,9 @@
+{:medicine_name "Crocin" :medicine_price "9" :medicine_quantity "200"}
+{:medicine_name "Dolo" :medicine_price "15" :medicine_quantity "210"}
+{:medicine_name "Rantac" :medicine_price "30" :medicine_quantity "150"}
+{:medicine_name "Pantac" :medicine_price "20" :medicine_quantity "10"}
+{:medicine_name "Omez" :medicine_price "21" :medicine_quantity "45"}
+{:medicine_name "Dart" :medicine_price "9" :medicine_quantity "102"}
+{:medicine_name "Saradon" :medicine_price "5" :medicine_quantity "150"}
+{:medicine_name "Citrizin" :medicine_price "15" :medicine_quantity "110"}
+
